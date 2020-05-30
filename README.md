@@ -13,6 +13,13 @@ MikroTik-to-Server.txt - Configuration MikroTik for Input to Server
 
 install.sh - Installation file
 
+
+# ===== Requirement =====
+1. MikroTik RouterBoard, MikroTik x86 or MikroTik CHR
+
+2. Linux Server or Windows Server
+
+
 # ===== Installation =====
 1. Download all file and extract.
 
