@@ -36,7 +36,7 @@ install.sh - Installation file
 
 6. The /root/flask/mon.py process will write to /root/flask/logmon.txt.
 
-7. Copy text in /root/flask/MikroTik-to-Server.txt file and put to MikroTik at IP > Hotspot > User Profile (Your user profile) > Script > On Logout (On bottom bar), and replace Server Address with Your Server IP Address.
+7. Copy text in /root/flask/MikroTik-to-Server.txt file and put to MikroTik at IP > Hotspot > User Profile (Your user profile) > Script > On Logout (On bottom bar), and replace "Server Address" with Your Server IP Address.
 
 8. To running this Script type "systemctl start hotspot" and if You want to start Script at boot You can type "systemctl enable hotspot",
 
